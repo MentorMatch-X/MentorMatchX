@@ -88,3 +88,7 @@ frontend/
 Это MVP для демонстрации. Перед боевым использованием стоит: сменить
 `MENTORMATCH_SECRET`, перейти на полноценную БД (PostgreSQL), добавить
 HTTPS/CSRF-защиту, пагинацию деки и реальный realtime для чата (WebSocket).
+
+## FIGMA
+
+https://www.figma.com/design/nif0n2MJKn8ND3By77356Y/Mentor-Match?node-id=0-1&t=NIACrBMr9YM8o6lU-1
